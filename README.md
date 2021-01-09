@@ -1,3 +1,3 @@
 # CodeWars
 
-My solutions for codewars tasks in PYTHON
+My solutions for codewars tasks in Python
